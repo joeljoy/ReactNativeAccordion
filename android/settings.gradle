@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeAccordion'
+
+include ':app'
